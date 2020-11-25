@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDemoTests</string>
+    <string name="msg_empty">Empty Message</string>
+</resources>
